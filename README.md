@@ -11,7 +11,9 @@ place(int pos):
 afisare(int n):
 -funcția afișează o soluție validă pe ecran;
 -caracterele "Q" reprezintă reginele, iar punctele reprezintă pozițiile libere;
+
 ![image](https://github.com/M04-a/Queen/assets/148650433/524b6498-5de5-4750-988d-6392e87fd0b0)
+
 
 
 queen(int n):
