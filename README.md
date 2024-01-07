@@ -18,3 +18,9 @@ queen(int n):
 main():
 -setează dimensiunea tablei de șah (n) la 8, apoi apelează funcția queen(n) pentru a rezolva problema;
 -la final, afișează numărul total de soluții găsite.
+
+
+DOCUMENTATIE:
+[GEEKS](https://www.geeksforgeeks.org/execution-of-c-program-using-docker-environment/)
+[YOUTUBE](https://www.youtube.com/watch?v=uYpeaN9sYVw&t=368s)
+[JAVAPOINT](https://www.javatpoint.com/n-queens-problems)
