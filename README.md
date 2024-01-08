@@ -34,4 +34,4 @@ main():
 DOCUMENTATIE:
 [GEEKSFORGEEKS](https://www.geeksforgeeks.org/execution-of-c-program-using-docker-environment/),
 [YOUTUBE - DOCKER TUTORIAL](https://www.youtube.com/watch?v=uYpeaN9sYVw&t=368s),
-[JAVAPOINT](https://www.javatpoint.com/n-queens-problems)
+[JAVAPOINT - INTELEGEREA PROBLEMEI ](https://www.javatpoint.com/n-queens-problems)
