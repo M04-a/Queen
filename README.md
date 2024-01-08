@@ -5,6 +5,7 @@ Proiect MAP
 Codul furnizat implementează algoritmul de rezolvare a problemei N-reginelor (N-Queens). Această problemă constă în plasarea a N regine pe o tablă de șah de dimensiune NxN, astfel încât niciuna dintre ele să nu se atace reciproc. Atunci când este găsită o soluție validă, este afișată tabla cu reginele plasate și se numără soluțiile găsite în total.
 
 place(int pos): 
+
 -această funcție verifică dacă o regină plasată într-o poziție specifică (pos) nu se atacă cu reginele deja plasate; 
 -funcția parcurge reginele deja plasate și verifică condițiile pentru o poziție validă
 
